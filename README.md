@@ -185,4 +185,9 @@ _NB: The login API call is only for checking role and training centres and is no
 
 ## for Use with the Community map apps
 iOS/Android availible here: https://github.com/pontoonapps/Community-Map-Apps
+
 Web version availible here: https://github.com/pontoonapps/Community-Map
+
+## More Information
+
+Visit our website for more information about the [PONToon Project](https://www.pontoonproject.eu/) 
