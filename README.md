@@ -181,3 +181,8 @@ _NB: The login API call is only for checking role and training centres and is no
 
 * recognized API keys probably could be in the database rather than in the config file
 * check that in cpanel we can't have more fine-grained access control than db-wide privileges
+
+
+## for Use with the Community map apps
+iOS/Android availible here: https://github.com/pontoonapps/Community-Map-Apps
+Web version availible here: https://github.com/pontoonapps/Community-Map
